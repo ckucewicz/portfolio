@@ -1,9 +1,11 @@
-# portfolio
+# Data Scientist | Policy Analyst
 
 ## Skills
 
-![Excel]() ![Python]() ![Tableau]() ![SQL]() ![Power BI]()
+<img src="/images/excel_icon.png" style="width: 100px; height: 75px;" />  <img src="/images/python_icon.png" style="width: 75px; height: 75px;" />  <img src="/images/tableau_icon.png" style="width: 75px; height: 75px;" />  <img src="/images/sql_icon.png" style="width: 75px; height: 75px;" />  <img src="/images/power-bi-icon.png" style="width: 75px; height: 75px;" />
+
 <br>
+
 **Excel**  |  **Python** | **Tableau** | **SQL**  | **Power BI** 
 
 **Data Visualization**: 2+ years  |  **Machine Learning**: < 1 year  |  **Data Reporting**: 1+ year  |  **Data Analysis**: 2+ years
@@ -34,17 +36,17 @@
 
 ## Professional Experience
 
-- **Data/Policy Analyst**, Cook County Department of Research, Operations, & Innovation, Chicago, IL (10/2024-Present)  
+- **Data/Policy Analyst**,Cook County Department of Research, Operations, & Innovation (10/2024-Present)  
   
-- **Vision Zero Ambassador**, City of Philadelphia, Philadelphia, PA (04/2024 - 09/2024)  
+- **Vision Zero Ambassador**, City of Philadelphia (04/2024 - 09/2024)  
 
-- **Lead Math/Science Instructor & Content Specialist**, TEACH, LLC., Philadelphia, PA (09/2023 - 09/2024)  
+- **Lead Math/Science Instructor & Content Specialist**, TEACH, LLC. (09/2023 - 09/2024)  
  
-- **Artificial Intelligence/Machine Learning Instructor**, Kode with Klossy, New York, NY (03/2023 - 08/2023)  
+- **Artificial Intelligence/Machine Learning Instructor**, Kode with Klossy (03/2023 - 08/2023)  
 
-- **High School Math Teacher & Academic Advisor**, School District of Philadelphia, Philadelphia, PA (08/2021 - 06/2023)
+- **High School Math Teacher & Academic Advisor**, School District of Philadelphia (08/2021 - 06/2023)
   
-- **High School Math Teacher**, String Theory Charter School, Philadelphia, PA (08/2020 - 08/2021)  
+- **High School Math Teacher**, String Theory Charter School (08/2020 - 08/2021)  
   
 ## Education
 
