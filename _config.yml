@@ -34,7 +34,7 @@ resume: "/assets/resumes/your-resume.pdf" # Make sure to upload your resume file
 profile_image: "/assets/images/your-profile-image.jpg" # Make sure to upload your image to the /assets/images/ folder
 
 # Theme (this can vary depending on the theme you're using)
-theme: "minimal" # or whatever theme you're using
+theme: jekyll-theme-minimal
 
 # Navigation Links (these will appear in the header or menu)
 nav_links:
