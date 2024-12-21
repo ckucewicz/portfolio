@@ -1,11 +1,11 @@
 title: "Chris Kucewicz" 
-
-logo: /images/Rounded Profile Picture.png
 description: linkedin: "https://www.linkedin.com/in/chriskucewicz/"
   github: "https://github.com/ckucewicz"
   blog: "https://medium.com/@ckucewicz21"
   tableau: "https://public.tableau.com/app/profile/chris.kucewicz/vizzes"
   email: "cfkucewicz@gmail.com"
+logo: /images/Rounded Profile Picture.png
+
 #url: "https://yourwebsite.com" # Your live site URL
 #baseurl: "" # Leave this empty if hosted at the root of your domain
 
