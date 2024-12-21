@@ -8,29 +8,30 @@
 
 **Excel**  |  **Python** | **Tableau** | **SQL**  | **Power BI** 
 
-**Data Visualization**: 2+ years  |  **Machine Learning**: < 1 year  |  **Data Reporting**: 1+ year  |  **Data Analysis**: 2+ years
+**Data Visualization**: 2+ years  
+**Machine Learning**: < 1 year  
+**Data Reporting**: 1+ year  
+**Data Analysis**: 2+ years
 
 ## Featured Projects
 
-
-
-- **VZ Project**  
+- [**Traffic Crash Classification**](https://github.com/ckucewicz/traffic_crash_prediction)  
   *Main Skills*: Python, Classification, Data Visualization, Inferential Modeling  
   Machine learning classification project in Python analyzing Chicago Crash Data to predict key contributors of fatal crashes, and 3 data-driven recommendations
 
-- **Water Well Classification**  
+- [**Water Well Classification**](https://github.com/ckucewicz/water_well_classification)
   *Main Skills*: Python, Classification, Geospatial Analysis, Predictive Modeling  
   Implemented a machine learning model to classify water wells using geospatial data and predictive modeling techniques.
 
-- **TEACH Reports**  
+- [**Program Evaluation Data Reports**](https://www.canva.com/design/DAGPAFaaptU/BjIkCCie1uVsM7v-BKOd9g/view?utm_content=DAGPAFaaptU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f595e1537)  
   *Main Skills*: Canva, Data Analysis, Data Visualization  
   Created comprehensive data reports analyzing 8 years of high school data, measuring student growth and curriculum effectiveness.
 
-- **Trees and Wealth Dashboard**  
+- [**Trees and Wealth Dashboard**](https://public.tableau.com/views/WealthTreesinNYC/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   *Main Skills*: Tableau, Dashboarding, Data Visualization  
   Tableau dashboard to explore the relationship between wealth & trees in New York City including a horizontal bar chart, stacked bar charts, bubble chart, & interactive maps.
 
-- **Movie Recommender System**  
+- [**Movie Recommender System**](https://github.com/ckucewicz/movie_recommendation_system)  
   *Main Skills*: Python, Supervised Learning, Predictive Modeling  
   Developed a movie recommender system using supervised learning to predict movie ratings and provide recommendations.
 
