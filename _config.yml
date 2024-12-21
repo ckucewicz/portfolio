@@ -1,5 +1,52 @@
-title: Chris Kucewicz
-logo: /images/Rounded%20Profile%20Picture.png
-description: "This is the description section."
-show_download: false
-theme: jekyll-theme-minimal 
+title: "Chris Kucewicz - Data Scientist | Policy Analyst
+description: #
+#url: "https://yourwebsite.com" # Your live site URL
+#baseurl: "" # Leave this empty if hosted at the root of your domain
+
+# Social links
+social_links:
+  linkedin: "https://www.linkedin.com/in/chriskucewicz/"
+  github: "https://github.com/ckucewicz"
+  blog: "https://medium.com/@ckucewicz21"
+  tableau: "https://public.tableau.com/app/profile/chris.kucewicz/vizzes"
+  email: "cfkucewicz@gmail.com"
+
+# About Me
+about:
+  title: "Former Math Teacher Turned Data Scientist"
+  description: "Passionate about data science, education, and policy analysis. Dedicated to using data-driven insights to drive decisions and solve problems."
+  hobbies: 
+    - Chess
+    - Math Nerd
+    - Baseball Fan
+    - Public School and Transit Advocate
+
+# Areas of Interest
+areas_of_interest:
+  - Education
+  - Transportation
+  - Urban Planning
+
+# Resume Link (if you'd like to link to a downloadable resume or a page on your site)
+resume: "/assets/resumes/your-resume.pdf" # Make sure to upload your resume file to the /assets/resumes/ folder
+
+# Profile Image (optional)
+profile_image: "/assets/images/your-profile-image.jpg" # Make sure to upload your image to the /assets/images/ folder
+
+# Theme (this can vary depending on the theme you're using)
+theme: "minimal" # or whatever theme you're using
+
+# Navigation Links (these will appear in the header or menu)
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Resume"
+    url: "/resume"
+
+# SEO Plugin (optional, for improving search visibility)
+plugins:
+  - jekyll-seo-tag
